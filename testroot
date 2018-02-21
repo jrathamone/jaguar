@@ -1,0 +1,2 @@
+app_name = jaguar
+cli_args = '--error'
